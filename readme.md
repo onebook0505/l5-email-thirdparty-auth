@@ -34,7 +34,8 @@ This should be fine if you've set up a gmail account to run with this.
 
 
 Then sign up by going to your app.
------------------------------------------------------------------------
+
+
 
 
 ## Laravel5 thirdparty auth ( use socialite )
