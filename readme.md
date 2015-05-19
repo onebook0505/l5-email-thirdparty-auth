@@ -34,7 +34,21 @@ This should be fine if you've set up a gmail account to run with this.
 
 
 Then sign up by going to your app.
+-----------------------------------------------------------------------
 
-Don't worry if /home doesn't work before you have a single user.  It will
-work after you have at least one.
+
+## Laravel5 thirdparty auth ( use socialite )
+
+參考 http://www.codeanchor.net/blog/complete-laravel-socialite-tutorial/
+
+
+
+
+
+
+
+
+
+
+
 
