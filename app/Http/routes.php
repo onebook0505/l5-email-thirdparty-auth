@@ -18,8 +18,6 @@ Route::get('/', function() {
 });
 
 
-
-
 //測試用 Route
 Route::get('/test', 'TestController@index');
 

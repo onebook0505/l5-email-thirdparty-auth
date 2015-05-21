@@ -16,7 +16,7 @@ class UpdateUsersTable2 extends Migration {
 		{
            $table->string('avatar');
            $table->string('provider');
-           $table->string('provider_id')->unique();
+           $table->string('provider_id')->unique()->nullable();
 		});
 	}
 
